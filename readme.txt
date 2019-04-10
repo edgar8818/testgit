@@ -11,4 +11,4 @@ learn to how to use git.
 8. git branch //show branch
 9. git merge dev // merge branch content to master
 10. git branch -d dev //delete branch dev
-
+11. add test
