@@ -11,4 +11,6 @@ learn to how to use git.
 8. git branch //show branch
 9. git merge dev // merge branch content to master
 10. git branch -d dev //delete branch dev
-11. ttttt
+11. git pull / git branch --set-upstream-to=origin/dev dev
+	git pull / git push origin dev
+	//more than one people to edit the same file
